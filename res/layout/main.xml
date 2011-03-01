@@ -7,7 +7,11 @@
     <TextView  
       android:layout_width="fill_parent" 
       android:layout_height="wrap_content" 
+      android:textSize="@dimen/headerSize"
       android:text="@string/hello"
+      android:background="@drawable/bgr2"
+      android:textColor="#FFFFFF"
+      android:layout_margin="5px"
     />
 
     <GridView xmlns:android="http://schemas.android.com/apk/res/android" 
