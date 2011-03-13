@@ -1,0 +1,13 @@
+hellogridview - Android practice excercise
+Pito Salas - March 2011
+
+This is an example Android application that I will be buildingh up, step by step. The idea
+is to illustrate each stage of development as another git branch. I am not sure yet what the 
+final program will be. At this point I think it will be some kind of a picture viewer. But we
+we shall see.
+
+Branch: Master - the original one
+
+In retrospect I should have called this one "Step0". Basically it is an out of the box
+skeleton application that does nothing at all. 
+
