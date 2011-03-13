@@ -1,0 +1,4 @@
+Now we have added a set of images (see res/drawable) and a new class (see ImageAdapter.java.)
+
+The images are hardwired as resources, and thus have resource ids (see for example R.drawable.img1). And they are loaded
+statically into the GridView that is setup in main.java. 
