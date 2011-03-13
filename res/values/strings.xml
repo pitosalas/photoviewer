@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Dale Chihuly Glass Exhibition - Arizona</string>
-    <string name="app_name">Cheap Photo Viewer</string>
+    <string name="app_name">Cheap Photo Viewer (step2)</string>
     <dimen name="headerSize">12sp</dimen>
 </resources>
