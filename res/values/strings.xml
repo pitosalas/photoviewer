@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Dale Chihuly Glass Exhibition - Arizona</string>
-    <string name="app_name">Cheap Photo Viewer</string>
+    <string name="app_name">Cheap Photo Viewer (step4)</string>
+    <string name="about_title">About...</string>
+    <string name="about_shortcut">a</string>
+    <string name="settings_title">Settings...</string>
+    <string name="settings_shortcut">s</string>
+    <string name="scrolling_label">Enable scrolling</string>
+    <string name="scrolling_title">Click to allow photos to be scrolled</string>
+    
     <dimen name="headerSize">12sp</dimen>
+    
 </resources>
